@@ -1,36 +1,36 @@
 # 🚀 Streamlit Mini Apps Collection
 
-This repository contains a collection of beginner-friendly **Streamlit applications** built using Python.  
-Each app demonstrates clean UI design, user interaction, and real-world utility.
+This repository contains a collection of **beginner to intermediate Streamlit applications** built using Python.  
+Each app focuses on clean UI, real-world use cases, and hands-on learning of Streamlit fundamentals.
+
+---
 
 ## 📦 Applications Included
 
-1. Greeting Form App 👋  
-2. BMI Calculator ⚕️  
-3. Expense Splitter 💰  
+1. 👋 Greeting Form  
+2. ⚕️ BMI Calculator  
+3. 💰 Expense Splitter  
+4. 🧮 Simple Calculator  
+
+Each application is **independent** and can be run separately.
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Python 3.8+**
-- **Streamlit**
-- **Pandas** (Expense Splitter)
-- **Plotly** (Expense Splitter – charts & graphs)
+- **Streamlit** – Web app framework
+- **Pandas** – Data handling (Expense Splitter)
+- **Plotly** – Interactive charts (Expense Splitter)
 
 ---
 
-## 1️⃣ Greeting Form App 👋
+## 📂 Project Structure
 
-A simple interactive form that collects user details and generates a **personalized greeting** based on age.
-
-### ✨ Features
-- Name input with validation
-- Age selection using slider
-- Age-based personalized greeting
-- Fun UI elements (balloons 🎈, metrics)
-- Custom styled button
-
-### ▶️ How to Run
-```bash
-streamlit run greeting_form.py
+```text
+├── greeting_form.py        # Personalized greeting app
+├── bmi_calculator.py       # BMI calculation app
+├── expense_splitter.py     # Expense splitting with charts
+├── calculator.py           # Simple arithmetic calculator
+├── requirements.txt        # Dependencies
+└── README.md               # Documentation
