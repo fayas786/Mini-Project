@@ -1,4 +1,4 @@
-# BMI Calculator - Day 4 Challenge
+# BMI Calculator 
 
 A professional BMI (Body Mass Index) Calculator built with Streamlit that calculates and categorizes your BMI based on height and weight inputs.
 
@@ -145,3 +145,4 @@ Free to use and modify for learning purposes.
 ---
 
 **Challenge Completed**: Day 4 of 15 Days Python Streamlit Challenge ✅
+
